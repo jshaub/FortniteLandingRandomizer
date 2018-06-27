@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Anarchy Acres</item>
+        <item>Dusty Divot</item>
+        <item>Fatal Fields</item>
+        <item>Flush Factory</item>
+        <item>Greasy Grove</item>
+        <item>Haunted Hills</item>
+        <item>Junk Junction</item>
+        <item>Lonely Lodge</item>
+        <item>Loot Lake</item>
+        <item>Lucky Landing</item>
+        <item>Moisty Mire</item>
+        <item>Pleasant Park</item>
+        <item>Retail Row</item>
+        <item>Risky Reels</item>
+        <item>Salty Springs</item>
+        <item>Shifty Shafts</item>
+        <item>Snobby Shores</item>
+        <item>Tilted Towers</item>
+        <item>Tomato Town</item>
+        <item>Wailing Woods</item>
+    </string-array>
+</resources>

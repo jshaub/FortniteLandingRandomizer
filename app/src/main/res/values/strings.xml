@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FortniteLandingRandomizer</string>
+    <string name="locationString"></string>
+    <string name="randomizeButtonString">Where we landin\' boys?</string>
+</resources>
